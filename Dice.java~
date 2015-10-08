@@ -1,0 +1,12 @@
+/*
+ * Dice.java
+ */
+
+public class Dice {
+  
+  public Dice() {
+    
+    
+  } // end Dice()
+  
+} // end Dice

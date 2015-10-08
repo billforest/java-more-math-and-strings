@@ -1,0 +1,20 @@
+/*
+ * Project: Tester.java
+ * Description: Tests Circle.java, Dice.java, Polygon.java
+ * Name: Jaehyung Lim
+ * Date: Oct 8, 2015
+ */
+
+public class Tester {
+  
+  public static void main( String[] args ) {
+    
+    Cricle c = new Circle();
+    Dice d = new Dice();
+    Polygon p = new Polygon();
+    
+    
+    
+  } // end main method
+  
+} // end Tester
